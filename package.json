@@ -1,6 +1,6 @@
 {
   "name": "react-hooks-use-shrinkable-header",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Your shrinkable header state in one hook!",
   "main": "index.js",
   "scripts": {

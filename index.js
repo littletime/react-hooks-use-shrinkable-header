@@ -1,3 +1,3 @@
 import useShrinkableHeader from './useShrinkableHeader'
 
-exports.useShrinkableHeader = useShrinkableHeader
+export default useShrinkableHeader
